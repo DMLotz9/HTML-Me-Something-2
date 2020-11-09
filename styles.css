@@ -1,0 +1,94 @@
+#main_title{
+    font-size: 48px;
+    font: Arial;
+    text-align: center;
+    background-color: transparent;
+    padding: 20px;
+}
+
+#title_line_left{
+    width: 20%;
+    height: 4px;
+    background-color: teal;
+    border-style: hidden;
+}
+
+#title_line_right{
+    width: 20%;
+    height: 4px;
+    background-color: teal;
+    border-style: hidden;
+}
+
+.section_break{
+    height: 6px;
+    background-color: navy;
+    border-style: hidden;
+}
+
+.column1{
+    margin: auto;
+    float: left;
+    width: 30%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.row1{
+    background-color: #f1f1f1b2;
+}
+
+.row1:after{
+    content:"";
+    display: table;
+    clear: both;
+}
+
+.column2{
+    margin: auto;
+    float: right;
+    width: 30%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+#laumeier_desc{
+    text-align: right;
+    padding-right: 100px;
+}
+
+.row2{
+    background-color: #f1f1f1b2;
+}
+
+.row2:after{
+    content:"";
+    display: table;
+    clear: both;
+}
+
+.column3{
+    margin: auto;
+    float: left;
+    width: 30%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.row3{
+    background-color: #f1f1f1b2;
+}
+
+.row3:after{
+    content:"";
+    display: table;
+    clear: both;
+}
+
+h3{
+    font-size: 28px;
+}
+
+p{
+    font-size: 20px;
+}
