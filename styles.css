@@ -5,6 +5,13 @@
     background-color: transparent;
     padding: 20px;
 }
+body{
+    background-image: url(images/PngItem_170822.png);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: 250px;
+    background-attachment: fixed;
+}
 
 #title_line_left{
     width: 20%;
@@ -18,6 +25,7 @@
     height: 4px;
     background-color: teal;
     border-style: hidden;
+    margin-bottom: 500px;
 }
 
 .section_break{
@@ -37,6 +45,7 @@
 .row1{
     background-color: #f1f1f1b2;
 }
+
 
 .row1:after{
     content:"";
