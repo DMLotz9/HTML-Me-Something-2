@@ -11,6 +11,7 @@ body{
     background-position-x: center;
     background-position-y: 250px;
     background-attachment: fixed;
+    font-family: 'Lato', "arial";
 }
 
 #title_line_left{
@@ -30,7 +31,7 @@ body{
 
 .section_break{
     height: 6px;
-    background-color: navy;
+    background-color: teal;
     border-style: hidden;
 }
 
